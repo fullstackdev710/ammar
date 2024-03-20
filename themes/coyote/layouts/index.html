@@ -1,0 +1,11 @@
+{{ define "main" }} {{- partial "profile.html" }} {{- $pages := where
+site.RegularPages "Type" "in" site.Params.mainSections }} {{- $paginator :=
+.Paginate $pages }}
+
+<section class="article-list">
+  {{ range sort $paginator.Pages ".Params.title" }} {{ .Render "summary"}} {{
+  end }}
+</section>
+
+{{- if gt $paginator.TotalPages 1 }} {{- partial "pagination.html" . -}} {{- end
+}} {{ end }}

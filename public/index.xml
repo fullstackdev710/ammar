@@ -36,5 +36,19 @@
       <guid>//localhost:1313/posts/math-typesetting/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>//localhost:1313/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 11:16:18 +0800</pubDate>
+      <guid>//localhost:1313/posts/emoji-support/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Little Princess</title>
+      <link>//localhost:1313/posts/a-little-princess/</link>
+      <pubDate>Mon, 01 Jan 1906 11:16:18 +0800</pubDate>
+      <guid>//localhost:1313/posts/a-little-princess/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

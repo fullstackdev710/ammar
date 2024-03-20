@@ -2,33 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/my-3rd-post/</loc>
-    <lastmod>2024-03-20T11:16:18+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/my-4th-post/</loc>
-    <lastmod>2024-03-20T11:16:18+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2024-03-20T11:16:18+08:00</lastmod>
+    <loc>//localhost:1313/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T11:16:18+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-03-20T11:16:18+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/my-2nd-post/</loc>
-    <lastmod>2024-03-20T11:16:18+08:00</lastmod>
+    <lastmod>2019-03-11T11:16:18+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-03-20T11:16:18+08:00</lastmod>
+    <lastmod>2019-03-11T11:16:18+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/taga/</loc>
-    <lastmod>2024-03-20T11:16:18+08:00</lastmod>
+    <lastmod>2019-03-11T11:16:18+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/tagb/</loc>
-    <lastmod>2024-03-20T11:16:18+08:00</lastmod>
+    <lastmod>2019-03-11T11:16:18+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-03-20T11:16:18+08:00</lastmod>
+    <lastmod>2019-03-11T11:16:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/rich-content/</loc>
+    <lastmod>2019-03-10T11:16:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/placeholder-text/</loc>
+    <lastmod>2019-03-09T11:16:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/math-typesetting/</loc>
+    <lastmod>2019-03-08T11:16:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/emoji-support/</loc>
+    <lastmod>2019-03-05T11:16:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/a-little-princess/</loc>
+    <lastmod>1906-01-01T11:16:18+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/search/</loc>
   </url>
 </urlset>

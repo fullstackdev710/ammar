@@ -5,11 +5,15 @@
 
 
 
-<title>404 Page not found - My New Hugo Site</title>
+<title>Search - My New Hugo Site</title>
 
 
 
 <link rel="stylesheet" href="/scss/style.min.e79cf0e554f6b3901d017d429a04697448247037b8c3c6ae2dd45a899a312a03.css">
+  
+  
+  
+  <script defer type="text/javascript" src="//localhost:1313/js/bundle.184637f2bdc6c2bd220c0d7c9e7831537f3cbaa3e4d3bad21f2ce2b5d145a0aa9d07b10e193574959884d4f61091a3fc3be23b80671070ac745395eed254efce.js" integrity="sha512-GEY38r3Gwr0iDA18nngxU388uqPk07rSHyzitdFFoKqdB7EOGTV0lZiE1PYQkaP8O&#43;I7gGcQcKx0U5Xu0lTvzg=="></script>
 </head>
   <body>
     <header class="header">
@@ -33,10 +37,20 @@
 <div class="container">
       <main class="main">
         
-<section class="not-found">
-  <h3>404</h3>
-  <span>page not found</span>
-</section>
+<div class="search-container">
+  <form class="search">
+    <label class="search__label">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+    </label>
+    <input class="search__input" id="searchInput" placeholder="Search contents...">
+  </form>
+
+  <div class="results" id="searchResults"></div>
+</div>
 
       </main><footer class="footer">
   <span>&copy; 2024 <a href="//localhost:1313/">My New Hugo Site</a></span>
